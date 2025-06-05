@@ -2,7 +2,7 @@
 
 ### "Passionate Computer Science Engineer Specializing in Python and AI Innovations"  
 📍 Chhattisgarh, India  
-📧 [01xia2020nks@gmail.com](mailto:01xia2020nks@gmail.com)  
+📧 [01xia2020nks@gmail.com](mailto:01xia2020hks@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-shrivastava-01a358255)  
 
 ---
@@ -75,7 +75,7 @@ Bachelor of Technology in Computer Science and Engineering
 
 ## 🤝 Let’s Connect
 
-📫 Reach out via [Email](mailto:01xia2020nks@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aishwarya-shrivastava-01a358255)  
+📫 Reach out via [Email](mailto:01xia2020hks@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aishwarya-shrivastava-01a358255)  
 🌟 Let’s collaborate and innovate together!
 
 ---
